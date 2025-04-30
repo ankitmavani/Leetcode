@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankitmavani/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitmavani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ankitmavani/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ankitmavani/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ankitmavani/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ankitmavani/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ankitmavani/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
