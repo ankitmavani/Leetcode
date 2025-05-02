@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ankitmavani/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ankitmavani/Leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/ankitmavani/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/ankitmavani/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ankitmavani/Leetcode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/ankitmavani/Leetcode/tree/master/1153-product-sales-analysis-i) |
