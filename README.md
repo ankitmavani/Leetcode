@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ankitmavani/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ankitmavani/Leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ankitmavani/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
